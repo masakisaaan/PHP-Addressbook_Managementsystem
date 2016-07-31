@@ -12,5 +12,5 @@ git clone https://github.com/masakisaaan/PHP-Addressbook_Managementsystem.git
 * [PasswordChecker](https://www.websec-room.com/passswordchecker)
 * [Bootstrap](http://getbootstrap.com/)
 
-##プレビュー
-(https://github.com/masakisaaan/PHP-Addressbook_Managementsystem/blob/images/Desktop/Git/img/main.png)
+##プレビュー  
+![preview](https://github.com/masakisaaan/PHP-Addressbook_Managementsystem/blob/images/Desktop/Git/img/main.png)
